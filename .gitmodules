@@ -1,0 +1,9 @@
+[submodule "configuration"]
+	path = configuration
+	url = https://github.com/apitore/configuration.git
+[submodule "server/eureka-server"]
+	path = server/eureka-server
+	url = https://github.com/apitore/eureka-server.git
+[submodule "server/config-server"]
+	path = server/config-server
+	url = https://github.com/apitore/config-server.git
