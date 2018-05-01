@@ -30,3 +30,7 @@
 	path = twitterio
 	url = https://github.com/apitore/apitore-service-twitterio.git
 	branch = master
+[submodule "apitore-response-parent"]
+	path = apitore-response-parent
+	url = https://github.com/apitore/apitore-response-parent.git
+	branch = master
