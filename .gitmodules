@@ -10,3 +10,23 @@
 	path = eureka-server
 	url = https://github.com/apitore/eureka-server.git
 	branch = master
+[submodule "common"]
+	path = common
+	url = https://github.com/apitore/apitore-service-common.git
+	branch = master
+[submodule "dao"]
+	path = dao
+	url = https://github.com/apitore/apitore-service-dao.git
+	branch = master
+[submodule "mail"]
+	path = mail
+	url = https://github.com/apitore/apitore-service-mail.git
+	branch = master
+[submodule "solrio"]
+	path = solrio
+	url = https://github.com/apitore/apitore-service-solrio.git
+	branch = master
+[submodule "twitterio"]
+	path = twitterio
+	url = https://github.com/apitore/apitore-service-twitterio.git
+	branch = master
