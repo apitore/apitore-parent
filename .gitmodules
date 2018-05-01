@@ -1,6 +1,7 @@
 [submodule "configuration"]
 	path = configuration
 	url = https://github.com/apitore/configuration.git
+	branch = master
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/apitore/config-server.git
